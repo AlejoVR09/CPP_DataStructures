@@ -20,12 +20,12 @@ class car {
 };
 
 car::car(string brand, float speed){
-    brand = brand;
-    speed = speed;
+    this->brand = brand;
+    this->speed = speed;
     
-}
+};
 
 int main(){
-    car("Mazda", 100);
+    car car("Mazda", 100);
     return 0;
 }
