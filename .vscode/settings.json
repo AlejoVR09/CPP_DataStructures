@@ -11,6 +11,7 @@
         "istream": "cpp",
         "streambuf": "cpp",
         "system_error": "cpp",
+        "xstring": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
